@@ -1,0 +1,7 @@
+PhysicalSize,NumberOfPixelsOnBorder 
+FeretDiameter 
+Flatness, PatchId
+BoundingBoxTopLeftX
+BoundingBoxTopLeftY 
+BoundingBoxBottomRightX
+BoundingBoxBottomRightY 
